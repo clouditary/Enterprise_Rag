@@ -7,7 +7,7 @@ This directory contains learning materials, architecture specifications, and ste
 | Day | Topic | File | Status |
 | :---: | :--- | :--- | :---: |
 | **Day 1** | FastAPI Foundation & Backend Setup | [lecture_01_fastapi_foundation.md](file:///c:/Users/Apoorva/Documents/enterprise_rag/docs/lecture_01_fastapi_foundation.md) | ✅ Completed |
-| **Day 2** | Document Ingestion & PDF Processing | *Upcoming* | ⏳ Pending |
+| **Day 2** | Document Ingestion & PDF Processing | [lecture_02_document_ingestion.md](file:///c:/Users/Apoorva/Documents/enterprise_rag/docs/lecture_02_document_ingestion.md) | ✅ Completed |
 | **Day 3** | Text Chunking Strategies | *Upcoming* | ⏳ Pending |
 | **Day 4** | Embeddings & Vector Database (Qdrant) | *Upcoming* | ⏳ Pending |
 | **Day 5** | Hybrid Retrieval (Dense + BM25) | *Upcoming* | ⏳ Pending |

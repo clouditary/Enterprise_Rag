@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from app.routers.documents import router as document_router
 
 app = FastAPI(
     title="Enterprise RAG Knowledge Assistant",
@@ -17,6 +18,8 @@ app.add_middleware(
 )
 
 
+app.include_router(document_router)
+
 @app.get("/")
 async def root():
     return {
@@ -29,3 +32,8 @@ async def health_check():
     return {
         "status": "healthy"
     }
+
+
+
+
+
