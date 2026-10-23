@@ -89,5 +89,8 @@ The application will be running at `http://localhost:8000`.
 
 All step-by-step lecture notes and architecture diagrams are maintained under [`docs/`](file:///c:/Users/Apoorva/Documents/enterprise_rag/docs):
 
-- **Day 1**: [FastAPI Foundation & Project Setup](file:///c:/Users/Apoorva/Documents/enterprise_rag/docs/lecture_01_fastapi_foundation.md)
-- *Upcoming*: Document Parsing, Chunking, Embeddings, Vector Search (Qdrant), Hybrid Retrieval, and LLM Generation.
+- **Day 1**: [FastAPI Foundation & Project Setup](docs/lecture_01_fastapi_foundation.md)
+- **Day 2**: [Document Ingestion & PDF Processing](docs/lecture_02_document_ingestion.md)
+- **Day 3**: [Text Chunking Strategies](docs/lecture_03_text_chunking.md)
+- **Day 4**: [Embeddings & Vector Database (Qdrant)](docs/lecture_04_vector_database.md)
+- *Upcoming*: Hybrid Retrieval (Dense + BM25), Reranking, and LLM Generation with Citations.
